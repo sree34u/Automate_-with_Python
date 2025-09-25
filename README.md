@@ -1,6 +1,6 @@
-# Automate the Boring Stuff with Python – Exercises
+# Python – Learning and Exercises
 
-This repository contains my solutions, exercises, and mini-projects while going through the book *Automate the Boring Stuff with Python* by Al Sweigart.  
+This repository contains my solutions, exercises, and mini-projects while going through various Python learning resources such as *Automate the Boring Stuff with Python* by Al Sweigart, Bro Code youtube videos etc.
 I’m using **WSL (Ubuntu)**, **Python 3**, and **VS Code** to practice programming and automation.
 
 ---
@@ -8,8 +8,8 @@ I’m using **WSL (Ubuntu)**, **Python 3**, and **VS Code** to practice programm
 ## Project Structure
 
 - `hello.py` – First test script
-- `chapter_01/` – Exercises and notes from Chapter 1
-- `chapter_02/` – Exercises and notes from Chapter 2
+- `Age.py` – Using Else, If and elif
+- `` – Exercises and notes from Chapter 2
 - *(more chapters coming soon...)*
 
 ---
