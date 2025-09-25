@@ -1,4 +1,5 @@
-# Else,If, Elif to respond according to age
+# Exercise: Use if-elif-else statements to respond according to age
+
 age = int(input("Enter your age:"))
 if age > 100:
     print("You are too old.")
