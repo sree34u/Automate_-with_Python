@@ -11,7 +11,27 @@ I’m using **WSL (Ubuntu)**, **Python 3**, and **VS Code** to practice programm
 - `Age.py` – Using Else, If and elif
 - `` – Exercises and notes from Chapter 2
 - *(more chapters coming soon...)*
-
+- **Bro Code YouTube Projects**
+  - Madlibs Game
+  - Calculator Program
+  - Weight Conversion Program
+  - Temperature Conversion Program
+  - Compound Interest Calculator
+  - Countdown Timer Program
+  - Shopping Cart Program
+  - Quiz Game
+  - Concession Stand Program
+  - Number Guessing Game
+  - Rock, Paper, Scissors Game
+  - Dice Roller Program
+  - Banking Program
+  - Slot Machine
+  - Encryption Program
+  - Hangman Game
+  - Alarm Clock
+  - Digital Clock Program
+  - Stopwatch Program
+  - Weather API App
 ---
 
 ## Getting Started
