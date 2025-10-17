@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random
 
 options = ("rock", "paper", "scissors")
