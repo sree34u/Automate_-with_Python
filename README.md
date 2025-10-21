@@ -1,5 +1,7 @@
 # Python – Learning and Exercises
 
+[![Pylint](https://github.com/sree34u/Automate_with_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/sree34u/Automate_with_Python/actions/workflows/pylint.yml)
+
 This repository contains my solutions, exercises, and mini-projects while going through various Python learning resources such as *Automate the Boring Stuff with Python* by Al Sweigart, Bro Code youtube videos etc.
 I’m using **WSL (Ubuntu)**, **Python 3**, and **VS Code** to practice programming and automation.
 
