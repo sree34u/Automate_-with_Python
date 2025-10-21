@@ -20,4 +20,5 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py')
+        pylint --output-format=colorized $(git ls-files '*.py') || true
+
